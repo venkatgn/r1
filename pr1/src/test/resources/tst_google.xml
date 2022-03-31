@@ -1,0 +1,7 @@
+<suite name="Google" parallel="tests">
+ <test name="tst_google_ff">
+   <classes>
+      <class name="base.Base"/>     
+   </classes>
+ </test> 
+</suite>
